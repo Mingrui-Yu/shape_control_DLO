@@ -1,0 +1,25 @@
+# for the whole system
+project_dir: '/home/mingrui/Mingrui/Research/DLO/project_icra_2022/dlo_shape_control/'
+
+# for environment
+env/sim_or_real: 'sim'
+env/dimension: '2D'
+
+
+# for DLO
+DLO/length: 0.5
+DLO/num_FPs: 10 # 8 features + 2 ends
+
+
+# for the controller
+controller/object_fps_idx: [1, 2, 3, 4, 5, 6, 7, 8]
+controller/enable_end_rotation: true
+controller/enable_left_arm: true
+controller/enable_right_arm: true 
+
+controller/online_learning/lr_approx_e: 50.0
+controller/online_learning/lr_task_e: 0.001
+
+
+# for offline learning
+learning/is_test: false
