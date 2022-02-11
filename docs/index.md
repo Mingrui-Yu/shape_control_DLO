@@ -1,4 +1,4 @@
-# Shape Control of Deformable Linear Objects
+# Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models
 
 This paper has been accepted by the 2022 International Conference on Robotics and Automation (ICRA 2022).
 
