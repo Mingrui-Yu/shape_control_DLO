@@ -198,3 +198,20 @@ The lengths and diameters of the 10 DLOs:
 |  9   |    0.6    |       8       |
 |  10  |    0.5    |      14       |
 
+## Citation
+Please cite our paper if you find it helpful :)
+
+Before the official ICRA version being available online, you can cite the arXiv version:
+```
+@article{yu2021shape,
+  title={Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models},
+  author={Yu, Mingrui and Zhong, Hanzhong and Li, Xiang},
+  journal={arXiv preprint arXiv:2109.11091},
+  year={2021}
+}
+```
+
+
+## Contact
+
+If you have any question, feel free to raise an issue (recommended) or contact the authors: Mingrui Yu, ymr20@mails.tsinghua.edu.cn
