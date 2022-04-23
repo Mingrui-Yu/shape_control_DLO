@@ -207,6 +207,7 @@ Please cite our paper if you find it helpful :)
   booktitle={2022 IEEE International Conference on Robotics and Automation (ICRA)}, 
   title={Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models}, 
   year={2022}
+  }
 ```
 
 ## Contact
