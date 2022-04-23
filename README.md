@@ -201,16 +201,13 @@ The lengths and diameters of the 10 DLOs:
 ## Citation
 Please cite our paper if you find it helpful :)
 
-Before the official ICRA version being available online, you can cite the arXiv version:
 ```
-@article{yu2021shape,
-  title={Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models},
+@INPROCEEDINGS{yu2022shape,
   author={Yu, Mingrui and Zhong, Hanzhong and Li, Xiang},
-  journal={arXiv preprint arXiv:2109.11091},
-  year={2021}
-}
+  booktitle={2022 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models}, 
+  year={2022}
 ```
-
 
 ## Contact
 
