@@ -14,3 +14,16 @@ This paper has been accepted by the 2022 International Conference on Robotics an
 The shape control of deformable linear objects (DLOs) is challenging, since it is difficult to obtain the deformation models. Previous studies often approximate the models in purely offline or online ways. In this paper, we propose a scheme for the shape control of DLOs, where the unknown model is estimated with both offline and online learning. The model is formulated in a local linear format, and approximated by a neural network (NN). First, the NN is trained offline to provide a good initial estimation of the model, which can directly migrate to the online phase. Then, an adaptive controller is proposed to achieve the shape control tasks, in which the NN is further updated online to compensate for any errors in the offline model caused by insufficient training or changes of DLO properties. The simulation and real-world experiments show that the proposed method can precisely and efficiently accomplish the DLO shape control tasks, and adapt well to new and untrained DLOs.
 
 Please refer to our paper for more details and results.
+
+
+## Citation
+Please cite our paper if you find it helpful :)
+
+```
+@INPROCEEDINGS{yu2022shape,
+  author={Yu, Mingrui and Zhong, Hanzhong and Li, Xiang},
+  booktitle={2022 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models}, 
+  year={2022}
+  }
+```
