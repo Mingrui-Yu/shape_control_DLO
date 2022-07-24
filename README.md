@@ -204,10 +204,13 @@ Please cite our paper if you find it helpful :)
 ```
 @INPROCEEDINGS{yu2022shape,
   author={Yu, Mingrui and Zhong, Hanzhong and Li, Xiang},
-  booktitle={2022 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)}, 
   title={Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models}, 
-  year={2022}
-  }
+  year={2022},
+  volume={},
+  number={},
+  pages={1337-1343},
+  doi={10.1109/ICRA46639.2022.9812244}}
 ```
 
 ## Contact
