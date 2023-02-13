@@ -2,6 +2,8 @@
 
 This paper has been accepted by the 2022 International Conference on Robotics and Automation (ICRA 2022).
 
+The journal version of this work has been accepted by **IEEE Transactions on Robotics (T-RO)**, in which the method is further improved. [[website](https://mingrui-yu.github.io/shape_control_DLO_2/)]
+
 <p align="center">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/au4TDZFrFHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
